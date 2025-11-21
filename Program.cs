@@ -20,7 +20,8 @@ class Program
             { "Galactic Cheese", 10m },
             { "Meteor Meat Lover", 15m },
             { "Veggie Nebula", 12m },
-            { "Black Hole BBQ", 18m }
+            { "Black Hole BBQ", 18m },
+            {"Pepperoni Comet", 14m}
         };
 
         Console.WriteLine("\n--- Menu ---");
